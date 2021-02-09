@@ -16,7 +16,7 @@
 </p>
 <br/>
 
-Funcitons created to convert color for rgb and hex, with tests constructed by mocha, express and request.
+Functions created to convert color for rgb and hex, with tests constructed by mocha, express and request.
 
 <br/>
 
