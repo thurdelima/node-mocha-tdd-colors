@@ -1,0 +1,20 @@
+{
+  "name": "node-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src/color-converter.js --out-file dist/color-converter.js",
+    "test": "mocha tests/*.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1",
+    "request": "^2.88.2"
+  }
+}
