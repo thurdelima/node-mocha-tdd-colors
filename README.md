@@ -2,7 +2,7 @@
 <h1 align="center">
   💅 Convert hex to rgb by TDD
 </h1>
-<h2 align="center">
+
 
 <p align="center">
 
